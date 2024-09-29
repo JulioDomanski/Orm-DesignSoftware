@@ -7,7 +7,7 @@ public class Test {
 
 	
 	public static void main(String[] args) {
-		Cliente c1 = new Cliente("Cyril Zakhia" ,"cyrilzakhia@hotmail.com","3810135342-62","Charmouta");
+		Cliente c1 = new Cliente("Julio" ,"julio@hotmail.com","111111111-11","teste");
 		
 		Pedido p = new Pedido();
 		
